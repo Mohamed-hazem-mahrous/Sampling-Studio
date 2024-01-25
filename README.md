@@ -69,7 +69,7 @@ pip install PyQt5 numpy pandas pyqtgraph scipy
 ## Usage
 Run the application:
 ```bash
-python main_window.py
+python sample_studio.py
 ```
 
 1. **Load a Signal**: Click on the "Open Signal" button to load a signal from an external file. Supported file format CSV. The loaded signal will be displayed in the first graph.
