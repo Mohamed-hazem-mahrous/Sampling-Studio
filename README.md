@@ -44,7 +44,7 @@ The Sampling Studio app offers the following key features:
 
 
 ## Video Demonstration
-[App Demo]()
+[App Demo](https://github.com/Mohamed-hazem-mahrous/Sampling-Studio/assets/94749599/3354577d-eed3-4fd3-8cc4-5cf191f9d0bc)
 
 
 ## Requirements
