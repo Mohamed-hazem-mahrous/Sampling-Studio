@@ -12,7 +12,7 @@
 - [Contributing](#contributing)
 
 ## Introduction
-The Sampling Studio app is a signal processing tool that allows users to load signals, visualize and sample them at different frequencies, recover the original signal using the sampled points, and perform various operations on the signals. This README file provides an overview of the app's features and instructions on how to use them effectively.
+The Sampling Studio app is a signal processing tool that allows users to load signals, visualize and sample them at different frequencies, recover the original signal using the sampled points, and perform various operations on the signals.
 
 ## Team Members
 The following team members have contributed to this project:
