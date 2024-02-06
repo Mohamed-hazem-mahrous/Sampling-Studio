@@ -90,6 +90,6 @@ python sample_studio.py
 
 
 ## Contributing
-Contributions to Signal Viewer are welcome! If you encounter any issues or have suggestions for improvements, please create a new issue or submit a pull request.
+Contributions to Sampling Studio App are welcome! If you encounter any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
 When contributing, please ensure that you follow the existing coding style and include clear commit messages to maintain a well-documented project history.
